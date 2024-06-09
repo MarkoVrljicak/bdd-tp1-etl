@@ -11,7 +11,7 @@ Fecha: 9 de Junio 2024
 | Matias Valmaggia | 105621 |
 | Bruno Contreras | 105634 |
 | Ignacio Sugai | 109549 |
-| miembro6 | padrón6 |
+| Nicolás Carreño | 106442 |
 
 
 ## Introducción
